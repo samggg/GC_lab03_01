@@ -1,0 +1,25 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samggg/GC_lab03_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samggg/GC_lab03_01/issues"
+  },
+  "homepage": "https://github.com/samggg/GC_lab03_01#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "ts-jest": "^29.3.4",
+    "ts-node": "^10.9.2"
+  }
+}
